@@ -1,4 +1,23 @@
-#all-articles h2 + p{
+span[class~="deck"]{
 
-    color: green;
+    color: purple;
+}
+
+
+div[id]{
+
+background-color: grey;
+
+}
+
+a[href*="http"]{
+
+
+    color: yellow;
+}
+
+a[href$="pdf"]{
+
+
+    color: pink;
 }
