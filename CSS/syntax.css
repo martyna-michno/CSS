@@ -1,23 +1,12 @@
-span[class~="deck"]{
+a:hover {
 
-    color: purple;
+color: red;
+
+
 }
 
 
-div[id]{
+#main-content:hover {
 
-background-color: grey;
-
-}
-
-a[href*="http"]{
-
-
-    color: yellow;
-}
-
-a[href$="pdf"]{
-
-
-    color: pink;
+    background: orange;
 }
