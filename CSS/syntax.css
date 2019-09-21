@@ -1,12 +1,20 @@
-a:hover {
+a:hover{
+
 
 color: red;
 
 
 }
 
+a:active{
 
-#main-content:hover {
+color: orange;
 
-    background: orange;
+
+}
+
+a:visited{
+
+color:purple; 
+
 }
