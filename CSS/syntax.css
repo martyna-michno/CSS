@@ -1,14 +1,6 @@
-article{
+article h2, article p{
 
-    font-size: 30px;
+
+    font-family: Arial, Helvetica, sans-serif;
 }
-
-article h1{
-
-    font-size: 5em;
-}
-
-article p{
-
-    font-size: 10%;
-}
+/* jezeli nie ten, to ten */
