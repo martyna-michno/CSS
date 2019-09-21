@@ -1,17 +1,11 @@
-article:nth-of-type(odd){
+article.featured-content{
 
-background: grey;
-
+    background-color: red;
 }
 
 
-/*parent=div, dlatego nr 6 liczymy razem z hr, h, article */
+div.featured-content{
 
 
-
-article:nth-child(6){
-
-background-color: pink;
-
-
+    background-color: blue;
 }
