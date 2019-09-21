@@ -1,18 +1,16 @@
-#header p{
+#header h1{
 
-text-transform: capitalize;
-
+    color: chocolate;
 }
 
+#header h2{
 
-body {
-    text-transform: uppercase;
+    color: darkolivegreen;
 }
 
-body > p{
+#header {
 
-
-    text-transform: none;
+background-color:lavender;
 }
 
-/* wszystkie p w body */
+/* mozna dac w tle url*/
