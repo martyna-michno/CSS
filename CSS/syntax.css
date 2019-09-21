@@ -1,11 +1,11 @@
-article.featured-content{
-
-    background-color: red;
+*{
+    color: blue;
 }
+/* koloruje wszystko, nawet linki w przeciwienstwie np. do body 
+universal slector, dlatego bardziej sie uzywa tak jak nizej*/
 
-
-div.featured-content{
-
-
-    background-color: blue;
+*{
+margin: 0;
+padding: 0;
+color: black;
 }
