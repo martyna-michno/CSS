@@ -1,12 +1,18 @@
-h1{
+#header p{
 
-    font-weight: normal;
+text-transform: capitalize;
+
 }
 
-p{
 
-    font-weight: 900;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+body {
+    text-transform: uppercase;
 }
 
-/* nie wszystkie czcionki maja opcje lighter i bolder*/
+body > p{
+
+
+    text-transform: none;
+}
+
+/* wszystkie p w body */
