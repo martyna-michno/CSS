@@ -1,5 +1,4 @@
-#main-content > p{
+#all-articles h2 + p{
 
-
-    color: red;
+    color: green;
 }
