@@ -1,16 +1,16 @@
-#header h1{
+a{
 
-    color: chocolate;
+color: crimson;
+text-decoration: none;
+font-weight: bold;
+
+
 }
 
-#header h2{
+a:hover{
 
-    color: darkolivegreen;
+
+    color: peachpuff;
+    text-decoration: underline;
+    background-color: grey;
 }
-
-#header {
-
-background-color:lavender;
-}
-
-/* mozna dac w tle url*/
