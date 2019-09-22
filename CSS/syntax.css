@@ -1,46 +1,28 @@
-.box{
-padding: 20px;
-margin: 20px;
-float: left;
-}
-/*border-top-width: 10px;
-border-top-style: solid;
-border-top-color: blue;*/
+.block{
 
-/*border: 10px solid blue*/
 
-.dashed{
-    border: 10px blue dashed;
-
-}
-.dotted{
-
-    border: 10px blue dotted;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000; 
 }
 
-.double{
-    border: 10px blue double;
+.inline{
+padding: 10px;
+margin: 10px;
+border: 1px solid #000; 
+display: inline-block;
 
 }
 
-.groove{
-    border: 10px blue groove;
+/* bez display sie nakladaja */
 
-}
-.inset{
 
-    border: 10px blue inset;
-}
-.outset{
-
-    border: 10px blue outset;
-}
-.ridge{
-    border: 10px blue ridge;
-
-}
-
-.solid{
-
-    border: 10px blue solid;
+a{
+padding: 10 px;
+margin: 10px;
+background-color: yellow;
+border: 1px solid #aaa;
+color: #000;
+text-decoration: none;
+display: inline-block;
 }
