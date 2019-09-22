@@ -1,16 +1,9 @@
-a{
+p{
 
-color: crimson;
-text-decoration: none;
-font-weight: bold;
-
-
+    font-size: 12px;
+    letter-spacing: 2em;
+    word-spacing: 5px;
+    line-height: 40px;
 }
 
-a:hover{
-
-
-    color: peachpuff;
-    text-decoration: underline;
-    background-color: grey;
-}
+/* em w przypadku letter spacing bierze od font-size*/
