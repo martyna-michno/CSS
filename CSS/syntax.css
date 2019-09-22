@@ -1,9 +1,6 @@
 p{
 
-    font-size: 12px;
-    letter-spacing: 2em;
-    word-spacing: 5px;
-    line-height: 40px;
+    font-size: 14px;
+    line-height: 2em;
+    margin-bottom: 32px;
 }
-
-/* em w przypadku letter spacing bierze od font-size*/
