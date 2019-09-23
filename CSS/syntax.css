@@ -1,11 +1,10 @@
 #banner{
 
-    background-color: grey;
-width: 100%;
-height: 300 px;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(255, 255, 255)
+    )
 
 }
 
-/* background-image: url(link1), url(link2);
-backgorund-repeat: no-repeat, no-repeat; - moge dac jedno i bedzie sie tyczylo dwoch
-background-position: center, top left; */
+    /*0 jest najciemniejsze, im wyzej - do 9 to jasniejsze 
